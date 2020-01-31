@@ -1,4 +1,4 @@
-[![Repo Status](http://img.shields.io/travis/Azure/azure-rest-api-specs/master.svg?style=flat-square&label=repo-status)](https://travis-ci.org/Azure/azure-rest-api-specs)
+[![Repo Status](http://img.shields.io/travis/Azure/azure-rest-api-specs/master.svg?style=flat-square&label=repo-status)](https://travis-ci.org/Azure/azure-rest-api-specs) [![Greenkeeper badge](https://badges.greenkeeper.io/devcode1981/azure-rest-api-specs.svg)](https://greenkeeper.io/)
 
 # Azure REST API Specifications
 
